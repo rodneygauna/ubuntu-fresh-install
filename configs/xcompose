@@ -1,0 +1,5 @@
+include "%H/.local/share/ubuntu-fresh-install/defaults/xcompose"
+
+# Identification
+<Multi_key> <space> <n> : "$UBUNTU_FRESH_INSTALL_USER_NAME"
+<Multi_key> <space> <e> : "$UBUNTU_FRESH_INSTALL_USER_EMAIL"
